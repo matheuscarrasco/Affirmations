@@ -35,6 +35,3 @@ proguard-project.txt
 *.iml
 .idea
 
-# Project exclude paths
-/app/
-/gradle/
